@@ -1,0 +1,49 @@
+.menu{
+    display: flex;
+    justify-content: center;
+    background-color: #E1EDE6;
+}
+
+.textMenu{
+    margin: 10px;
+}
+.container{
+    display: flex;
+}
+.block1{
+    flex: 1;
+    position: relative;
+    left: 200px;
+    top: 100px;
+}
+.myColor{
+    color: rgb(7, 221, 57);
+}
+.myText{
+font-family: Raleway;
+font-size: 18px;
+font-weight: 500;
+line-height: 27px;
+text-align: left;
+}
+.myImg{
+    position: relative;
+    left: 165px;
+}
+.myBtn{
+    border-color: rgb(0, 238, 75);
+    padding: 20px;
+}
+.Text{
+    position: relative;
+    display: flex;
+    left: 300px;
+}
+.Text10{
+    color: #000;
+    position: relative;
+    left: 800px;
+    top: 100px;
+}
+
+
